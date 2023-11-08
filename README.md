@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikebando
 - 👀 I’m interested in learning Python as much as possible
-- 🌱 I’m currently learning Python + how to use GitHub 
+- 🌱 Currently learning Python + how to use GitHub 
 - 💞️ I’m looking to collaborate on anything but I'd need to be more advanced though
 - 📫 How to reach me - email: bando.michal@gmail.com
 
